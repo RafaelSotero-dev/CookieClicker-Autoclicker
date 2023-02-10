@@ -19,7 +19,7 @@ git clone https://github.com/RafaelSotero-dev/CookieClicker-Autoclicker.git
 
 3. Configure o intervalo de cliques e o número de cliques por segundo.
 
-4. Para iniciar utilize o comando::
+4. Para iniciar utilize o comando:
 ~~~
 python3 main.py
 ~~~
